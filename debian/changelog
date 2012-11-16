@@ -1,0 +1,133 @@
+mint-artwork-kde (2.0.3) nadia; urgency=low
+
+  * Initial nadia release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 04 Oct 2012 13:08:00 +0200
+
+mint-artwork-kde (2.0.2) maya; urgency=low
+
+  * Initial maya release
+
+ -- Frederic Gaudet <fred@linuxmint.com>  Fri, 25 May 2012 13:56:16 +0200
+
+mint-artwork-kde (2.0.1) lisa-kde; urgency=low
+
+  * Fixed wallpaper name Mint_Lisa
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 15 Dec 2011 12:43:50 +0000
+
+mint-artwork-kde (2.0.0) lisa-kde; urgency=low
+
+  * Initial lisa-kde release
+
+ -- Frederic Gaudet <fred@linuxmint.com>  Tue, 06 Dec 2011 16:03:00 +0000
+
+mint-artwork-kde (1.9.0) katya-kde; urgency=low
+
+  * Added Katya default wallpaper.
+  * Initial katya-kde release.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Sat, 07 May 2011 04:49:09 +0000
+
+mint-artwork-kde (1.8.0) julia-kde; urgency=low
+
+  * Added Julia default wallpaper.
+  * Initial julia-kde release.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Thu, 18 Nov 2010 11:08:15 +0000
+
+mint-artwork-kde (1.7.0) isadora-kde; urgency=low
+
+  * Added software-properties icons.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Sun, 11 Jul 2010 10:43:48 +0000
+
+mint-artwork-kde (1.6.0) isadora-kde; urgency=low
+
+  * Added runnerup Isadora KDE wallpapers.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Mon, 17 May 2010 14:20:53 +0000
+
+mint-artwork-kde (1.5.1) isadora-kde; urgency=low
+
+  * Added isadora KDE wallpapers.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Wed, 05 May 2010 10:27:54 +0000
+
+mint-artwork-kde (1.5.0) isadora-kde; urgency=low
+
+  * Initial isadora release.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Sat, 10 Apr 2010 13:09:34 +0000
+
+mint-artwork-kde (1.4.3) helena; urgency=low
+
+  * Added index.theme to Mint-KDE icon theme.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Sat, 05 Dec 2009 22:13:50 +0000
+
+mint-artwork-kde (1.4.2) helena; urgency=low
+
+  * Reduced the postinst script.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Sat, 05 Dec 2009 02:59:39 +0000
+
+mint-artwork-kde (1.4.1) helena; urgency=low
+
+  * Moved icons/hicolor to Mint-KDE.
+  * Added postinst script.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Fri, 04 Dec 2009 13:44:20 +0000
+
+mint-artwork-kde (1.4.0) helena; urgency=low
+
+  * Initial helena release.
+  * Change mint KDE icon in hicolor.
+  * Remove status folders in hicolor.
+  * Add airmint wallpapers.
+  * Remove Mint-KDE icon theme.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Fri, 04 Dec 2009 09:12:04 +0000
+
+mint-artwork-kde (1.3.0) gloria; urgency=low
+
+  * Added hicolor icons for ubuquity and stock_lock.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Thu, 09 Jul 2009 14:02:17 +0000
+
+mint-artwork-kde (1.2.2) gloria; urgency=low
+
+  * Added mint Dew wallpapers.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Sun, 24 May 2009 08:37:13 +0000
+
+mint-artwork-kde (1.2.1) gloria; urgency=low
+
+  * Added stock_lock icons to mint theme.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Sat, 09 May 2009 12:59:01 +0000
+
+mint-artwork-kde (1.2) gloria; urgency=low
+
+  * Removed gfxmenu message file and configuration.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Sat, 25 Apr 2009 16:23:31 +0000
+
+mint-artwork-kde (1.1.1) gloria; urgency=low
+
+  * Initial Gloria release.
+
+ -- Jamie Birse <boo.birse@gmail.com>  Tue, 21 Apr 2009 13:07:39 +0000
+
+mint-artwork-kde (1.1) felicia; urgency=low
+
+  * Updated Mint-KDE icons.
+
+ -- Jamie Birse <minted@internode.on.net>  Sun, 08 Mar 2009 10:03:43 +0000
+
+mint-artwork-kde (1.0) felicia; urgency=low
+
+  * Initial release
+
+ -- Jamie Birse <minted@internode.on.net>  Sat, 07 Mar 2009 14:23:36 +0000
+

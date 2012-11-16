@@ -1,0 +1,14 @@
+Source: mint-artwork-kde
+Section: admin
+Priority: optional
+Maintainer: Frederic Gaudet <fred@linuxmint.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: mint-artwork-kde
+Architecture: all
+Depends: mint-artwork-common
+Replaces: mint-wallpaper-katya, mint-backgrounds-katya
+Conflicts:mint-wallpaper-katya, mint-backgrounds-katya
+Description: Default artwork for Linux Mint KDE Edition
+ Default artwork for Linux Mint KDE Edition
