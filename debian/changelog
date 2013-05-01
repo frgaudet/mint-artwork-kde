@@ -1,3 +1,9 @@
+mint-artwork-kde (2.0.4) olivia; urgency=low
+
+  * Add Olivia wallpaper
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Wed, 01 May 2013 09:17:43 +0200
+
 mint-artwork-kde (2.0.3) nadia; urgency=low
 
   * Initial nadia release
