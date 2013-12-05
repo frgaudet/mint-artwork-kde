@@ -1,3 +1,9 @@
+mint-artwork-kde (2.0.8) petra; urgency=low
+
+  * Fix Typos
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 05 Dec 2013 10:55:39 +0100
+
 mint-artwork-kde (2.0.7) petra; urgency=low
 
   * Update wallpapers
