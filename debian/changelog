@@ -1,3 +1,12 @@
+mint-artwork-kde (2.0.10) qiana; urgency=low
+
+  * [eec2b99] Fix Flame author
+  * [48e48fd] Removed j_baer_modified_5561371578
+  * [17a82a7] Add new wallpaper
+  * [fa85c97] Update Credit file
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Mon, 26 May 2014 09:23:00 +0200
+
 mint-artwork-kde (2.0.9) qiana; urgency=low
 
   * Initial qiana release
