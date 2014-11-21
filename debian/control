@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: mint-artwork-kde
 Architecture: all
-Depends: mint-artwork-common
+Depends: mint-artwork-common, mint-background-rebecca
 Replaces: mint-wallpaper-katya, mint-backgrounds-katya
 Conflicts:mint-wallpaper-katya, mint-backgrounds-katya
 Description: Default artwork for Linux Mint KDE Edition
