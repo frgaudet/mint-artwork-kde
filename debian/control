@@ -2,8 +2,8 @@ Source: mint-artwork-kde
 Section: admin
 Priority: optional
 Maintainer: Frederic Gaudet <fred@linuxmint.com>
-Build-Depends: debhelper (>= 5)
-Standards-Version: 3.7.2
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.2
 
 Package: mint-artwork-kde
 Architecture: all
