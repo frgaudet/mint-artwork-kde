@@ -1,3 +1,15 @@
+mint-artwork-kde (2.0.11) rebecca; urgency=low
+
+  * New checkout :
+  * [66e22a7] Move to rebecca images
+  * [9197da1] fix typo
+  * [4424b4b] easier paths
+  * [96a09f3] Move to debhelper 3.9.2
+  * [171d887] Add rebecca background dep
+  * [d017396] New version
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Fri, 21 Nov 2014 13:50:57 +0100
+
 mint-artwork-kde (2.0.10) qiana; urgency=low
 
   * [eec2b99] Fix Flame author
