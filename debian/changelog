@@ -1,3 +1,11 @@
+mint-artwork-kde (2.0.13) rebecca; urgency=medium
+
+  * New checkout :
+  * [bbc1b6e] Change defautl background name
+  * [5af67d9] Changelog
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 11 Dec 2014 10:46:47 +0100
+
 mint-artwork-kde (2.0.12) rebecca; urgency=medium
 
   * New checkout :
