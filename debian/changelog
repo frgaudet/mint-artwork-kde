@@ -1,3 +1,11 @@
+mint-artwork-kde (2.0.14) rebecca; urgency=medium
+
+  * New checkout :
+  * [c852f67] Add dependency to mint-backgrounds-rebecca
+  * [fb00b98] Changelog
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 11 Dec 2014 10:57:18 +0100
+
 mint-artwork-kde (2.0.13) rebecca; urgency=medium
 
   * New checkout :
