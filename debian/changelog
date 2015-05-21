@@ -1,3 +1,13 @@
+mint-artwork-kde (2.0.15-0iut1) rebecca; urgency=medium
+
+  * New checkout :
+  * [120c2b8] Fix filename
+  * [d27a3d3] Fix filename
+  * [12a9e29] Remove website URL
+  * [9af3b9a] Changelog
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 21 May 2015 13:22:47 +0200
+
 mint-artwork-kde (2.0.15-0iut0) rebecca; urgency=medium
 
   * New checkout :
